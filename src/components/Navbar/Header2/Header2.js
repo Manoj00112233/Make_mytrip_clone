@@ -18,7 +18,7 @@ const Header2 = () => {
       <div className="header2">
         <Link className="logo" to={"/"}>
           <img
-            src="https://github.com/GitsOfVivek/MakeMyTrip-Clone/blob/main/client/src/assets/img/logo2.png?raw=true"
+            src="https://github.com/Manoj00112233/Make_mytrip_clone/blob/main/src/assets/logo.png?raw=true"
             alt="logo-mmt"
           />
         </Link>

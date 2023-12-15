@@ -8,14 +8,14 @@ const Header1 = () => {
       <div className="header1">
         <Link className="logo" to={"/"}>
           <img
-            src="https://github.com/GitsOfVivek/MakeMyTrip-Clone/blob/main/client/src/assets/img/logo.png?raw=true"
+            src="https://github.com/Manoj00112233/Make_mytrip_clone/blob/main/src/assets/logo.png?raw=true"
             alt="logo-mmt"
           />
         </Link>
         <div className="right-sec">
           <div className="offer">
             <img
-              src="https://github.com/GitsOfVivek/MakeMyTrip-Clone/blob/main/client/src/assets/img/discount.jpeg?raw=true"
+              src="https://github.com/Manoj00112233/Make_mytrip_clone/blob/main/src/assets/discount.jpeg?raw=true"
               alt="offer"
             />
             <div className="text">
@@ -35,7 +35,7 @@ const Header1 = () => {
           </div>
           <div className="myTrip">
             <img
-              src="https://github.com/GitsOfVivek/MakeMyTrip-Clone/blob/main/client/src/assets/img/bag.png?raw=true"
+              src="https://github.com/Manoj00112233/Make_mytrip_clone/blob/main/src/assets/discount.jpeg?raw=true"
               alt="myTrip"
             />
             <div className="text">

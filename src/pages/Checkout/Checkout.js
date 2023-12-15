@@ -375,12 +375,12 @@ const Checkout = () => {
 
                   <div
                     onClick={() => {
-                      setSelectedPromoCode("MMTCLONE-20");
-                      setInputText("MMTCLONE20");
+                      setSelectedPromoCode("NEWYEAR-20");
+                      setInputText("NEWYEAR20");
                     }}
                     className="code"
                   >
-                    <span>MMTCLONE20</span>
+                    <span>NEWYEAR20</span>
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     </p>
@@ -399,12 +399,12 @@ const Checkout = () => {
                   </div>
                   <div
                     onClick={() => {
-                      setSelectedPromoCode("YAMINI-50");
-                      setInputText("YAMINI50");
+                      setSelectedPromoCode("MANOJ-50");
+                      setInputText("MANOJ50");
                     }}
                     className="code"
                   >
-                    <span>YAMINI50</span>
+                    <span>MANOJ50</span>
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     </p>

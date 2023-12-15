@@ -37,7 +37,7 @@ export const Profile = () => {
         ) : (
           <div className="login">
             <img
-              src="https://raw.githubusercontent.com/GitsOfVivek/MakeMyTrip-Clone/b862e8a1c392c93ab828bd47fc8b73e1aaf7e7f0/client/src/assets/img/makemytrip.svg"
+              src="https://github.com/Manoj00112233/Make_mytrip_clone/blob/main/src/assets/makemytrip.svg"
               className="cropped-img"
               alt="myTrip"
             />{" "}
